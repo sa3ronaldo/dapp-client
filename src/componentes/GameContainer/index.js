@@ -30,7 +30,7 @@ const GameContainer = (props) => {
     return (
         <Container>
             <Row>
-                <h2 className="text-center" style={{padding: "20px"}}>Memory Game</h2>
+                <h2 className="text-center" style={{padding: "20px"}}>Memory Game TESTE</h2>
             </Row>
             {!isLoged ?
                 <Row><Button onClick={handleLogin}>Login</Button></Row> :
