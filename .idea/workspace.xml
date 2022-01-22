@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f97a3d1-1709-43e5-8fb7-2760a893fcc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+    <list default="true" id="0f97a3d1-1709-43e5-8fb7-2760a893fcc6" name="Changes" comment="up">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componentes/GameContainer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componentes/GameContainer/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,8 +39,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642888898303</updated>
-      <workItem from="1642888899746" duration="198000" />
+      <workItem from="1642888899746" duration="433000" />
     </task>
+    <task id="LOCAL-00001" summary="remoção do teste">
+      <created>1642889157171</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642889157171</updated>
+    </task>
+    <task id="LOCAL-00002" summary="up">
+      <created>1642889316875</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642889316875</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,6 +71,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remoção do teste" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
