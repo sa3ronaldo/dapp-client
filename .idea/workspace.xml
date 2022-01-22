@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f97a3d1-1709-43e5-8fb7-2760a893fcc6" name="Changes" comment="up">
+    <list default="true" id="0f97a3d1-1709-43e5-8fb7-2760a893fcc6" name="Changes" comment="Up">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/componentes/GameContainer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/componentes/GameContainer/index.js" afterDir="false" />
     </list>
@@ -14,6 +14,12 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="244TXLfQwGY9omGxitsV1NlEtUy" />
@@ -39,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642888898303</updated>
-      <workItem from="1642888899746" duration="433000" />
+      <workItem from="1642888899746" duration="916000" />
     </task>
     <task id="LOCAL-00001" summary="remoção do teste">
       <created>1642889157171</created>
@@ -55,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642889316875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Up">
+      <created>1642889469096</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1642889469096</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,7 +88,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remoção do teste" />
     <MESSAGE value="up" />
-    <option name="LAST_COMMIT_MESSAGE" value="up" />
+    <MESSAGE value="Up" />
+    <option name="LAST_COMMIT_MESSAGE" value="Up" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
